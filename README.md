@@ -11,7 +11,7 @@ Abra [ManisfestoSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
-No WhatsApp Web abra o console do Browser
+No WhatsApp Web abra o console do Browser ctrl+shift+j
 
 Cole o código no console e aperte Enter
 
