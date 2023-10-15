@@ -7,7 +7,7 @@ Código para enviar o Script inteiro do Manifesto Comunista para seus amigos ou 
 
 ## Utilização
 
-Abra [ManisfestoSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/ManifestoSendScript.js)
+Abra [ManisfestoSendScript.js](https://github.com/Reconvexo/Manifesto/blob/main/ManifestoSendScript.js)
 
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
